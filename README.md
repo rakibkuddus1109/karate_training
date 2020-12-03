@@ -9,3 +9,5 @@ Standalone Execution:
 Require feature files
 karate-0.9.6.jar (https://github.com/intuit/karate/releases)
 karate-config.js
+
+java -jar jenkins.war (download jenkins.war)
